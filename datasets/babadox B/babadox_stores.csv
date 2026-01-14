@@ -1,0 +1,121 @@
+store_id,store_name,category,floor,opened_year
+STORE1000,Babadox Shop 0,Electronics,4,2014
+STORE1001,Babadox Shop 1,Sports,0,2020
+STORE1002,Babadox Shop 2,Fashion,1,2014
+STORE1003,Babadox Shop 3,Sports,1,2016
+STORE1004,Babadox Shop 4,Home,3,2020
+STORE1005,Babadox Shop 5,Beauty,4,2014
+STORE1006,Babadox Shop 6,Beauty,4,2020
+STORE1007,Babadox Shop 7,Fashion,1,2012
+STORE1008,Babadox Shop 8,Home,0,2019
+STORE1009,Babadox Shop 9,Fashion,0,2014
+STORE1010,Babadox Shop 10,Beauty,0,2016
+STORE1011,Babadox Shop 11,Sports,4,2014
+STORE1012,Babadox Shop 12,Electronics,3,2014
+STORE1013,Babadox Shop 13,Beauty,1,2018
+STORE1014,Babadox Shop 14,Food & Beverage,2,2012
+STORE1015,Babadox Shop 15,Electronics,3,2022
+STORE1016,Babadox Shop 16,Beauty,2,2015
+STORE1017,Babadox Shop 17,Sports,3,2010
+STORE1018,Babadox Shop 18,Fashion,0,2019
+STORE1019,Babadox Shop 19,Electronics,4,2014
+STORE1020,Babadox Shop 20,Sports,2,2017
+STORE1021,Babadox Shop 21,Home,3,2014
+STORE1022,Babadox Shop 22,Food & Beverage,4,2018
+STORE1023,Babadox Shop 23,Electronics,2,2020
+STORE1024,Babadox Shop 24,Fashion,1,2015
+STORE1025,Babadox Shop 25,Home,3,2017
+STORE1026,Babadox Shop 26,Sports,1,2019
+STORE1027,Babadox Shop 27,Food & Beverage,0,2017
+STORE1028,Babadox Shop 28,Fashion,1,2022
+STORE1029,Babadox Shop 29,Sports,1,2012
+STORE1030,Babadox Shop 30,Sports,3,2016
+STORE1031,Babadox Shop 31,Electronics,0,2023
+STORE1032,Babadox Shop 32,Electronics,1,2016
+STORE1033,Babadox Shop 33,Fashion,4,2023
+STORE1034,Babadox Shop 34,Beauty,2,2019
+STORE1035,Babadox Shop 35,Beauty,1,2021
+STORE1036,Babadox Shop 36,Sports,0,2015
+STORE1037,Babadox Shop 37,Electronics,1,2021
+STORE1038,Babadox Shop 38,Food & Beverage,2,2016
+STORE1039,Babadox Shop 39,Food & Beverage,0,2023
+STORE1040,Babadox Shop 40,Sports,3,2011
+STORE1041,Babadox Shop 41,Electronics,0,2018
+STORE1042,Babadox Shop 42,Fashion,3,2019
+STORE1043,Babadox Shop 43,Fashion,0,2019
+STORE1044,Babadox Shop 44,Fashion,2,2010
+STORE1045,Babadox Shop 45,Food & Beverage,2,2010
+STORE1046,Babadox Shop 46,Electronics,0,2012
+STORE1047,Babadox Shop 47,Electronics,1,2023
+STORE1048,Babadox Shop 48,Food & Beverage,2,2012
+STORE1049,Babadox Shop 49,Fashion,3,2010
+STORE1050,Babadox Shop 50,Fashion,3,2021
+STORE1051,Babadox Shop 51,Sports,4,2016
+STORE1052,Babadox Shop 52,Beauty,3,2013
+STORE1053,Babadox Shop 53,Home,4,2019
+STORE1054,Babadox Shop 54,Beauty,0,2022
+STORE1055,Babadox Shop 55,Electronics,0,2011
+STORE1056,Babadox Shop 56,Electronics,0,2019
+STORE1057,Babadox Shop 57,Electronics,1,2014
+STORE1058,Babadox Shop 58,Beauty,1,2015
+STORE1059,Babadox Shop 59,Home,4,2018
+STORE1060,Babadox Shop 60,Sports,3,2013
+STORE1061,Babadox Shop 61,Beauty,3,2011
+STORE1062,Babadox Shop 62,Home,0,2014
+STORE1063,Babadox Shop 63,Fashion,2,2012
+STORE1064,Babadox Shop 64,Fashion,1,2011
+STORE1065,Babadox Shop 65,Electronics,1,2021
+STORE1066,Babadox Shop 66,Food & Beverage,0,2010
+STORE1067,Babadox Shop 67,Electronics,1,2019
+STORE1068,Babadox Shop 68,Food & Beverage,0,2011
+STORE1069,Babadox Shop 69,Home,4,2015
+STORE1070,Babadox Shop 70,Fashion,3,2017
+STORE1071,Babadox Shop 71,Beauty,2,2022
+STORE1072,Babadox Shop 72,Food & Beverage,3,2012
+STORE1073,Babadox Shop 73,Home,3,2020
+STORE1074,Babadox Shop 74,Fashion,4,2018
+STORE1075,Babadox Shop 75,Beauty,1,2021
+STORE1076,Babadox Shop 76,Food & Beverage,2,2018
+STORE1077,Babadox Shop 77,Electronics,1,2011
+STORE1078,Babadox Shop 78,Electronics,3,2017
+STORE1079,Babadox Shop 79,Electronics,0,2019
+STORE1080,Babadox Shop 80,Home,3,2020
+STORE1081,Babadox Shop 81,Electronics,1,2021
+STORE1082,Babadox Shop 82,Sports,3,2014
+STORE1083,Babadox Shop 83,Fashion,0,2013
+STORE1084,Babadox Shop 84,Home,4,2019
+STORE1085,Babadox Shop 85,Beauty,1,2014
+STORE1086,Babadox Shop 86,Electronics,3,2013
+STORE1087,Babadox Shop 87,Fashion,1,2017
+STORE1088,Babadox Shop 88,Food & Beverage,4,2013
+STORE1089,Babadox Shop 89,Electronics,3,2022
+STORE1090,Babadox Shop 90,Fashion,3,2019
+STORE1091,Babadox Shop 91,Sports,1,2021
+STORE1092,Babadox Shop 92,Food & Beverage,1,2022
+STORE1093,Babadox Shop 93,Sports,0,2023
+STORE1094,Babadox Shop 94,Beauty,4,2015
+STORE1095,Babadox Shop 95,Fashion,0,2011
+STORE1096,Babadox Shop 96,Sports,3,2014
+STORE1097,Babadox Shop 97,Beauty,1,2015
+STORE1098,Babadox Shop 98,Fashion,3,2014
+STORE1099,Babadox Shop 99,Fashion,3,2021
+STORE1100,Babadox Shop 100,Sports,2,2011
+STORE1101,Babadox Shop 101,Fashion,2,2023
+STORE1102,Babadox Shop 102,Electronics,3,2016
+STORE1103,Babadox Shop 103,Fashion,1,2013
+STORE1104,Babadox Shop 104,Home,3,2017
+STORE1105,Babadox Shop 105,Beauty,2,2016
+STORE1106,Babadox Shop 106,Fashion,1,2016
+STORE1107,Babadox Shop 107,Home,3,2018
+STORE1108,Babadox Shop 108,Fashion,4,2010
+STORE1109,Babadox Shop 109,Fashion,4,2019
+STORE1110,Babadox Shop 110,Sports,3,2015
+STORE1111,Babadox Shop 111,Electronics,1,2015
+STORE1112,Babadox Shop 112,Beauty,3,2015
+STORE1113,Babadox Shop 113,Electronics,3,2022
+STORE1114,Babadox Shop 114,Food & Beverage,2,2021
+STORE1115,Babadox Shop 115,Sports,4,2015
+STORE1116,Babadox Shop 116,Sports,2,2021
+STORE1117,Babadox Shop 117,Electronics,2,2019
+STORE1118,Babadox Shop 118,Sports,3,2016
+STORE1119,Babadox Shop 119,Electronics,2,2023
