@@ -152,6 +152,7 @@ This system enables:
 ## 📸 Dashboard Preview
 
 *(Add screenshots here)*
+<img width="727" height="413" alt="babadox pb1" src="https://github.com/user-attachments/assets/61679ad9-7030-466e-a276-759e0b63ead2" />
 
 ---
 
